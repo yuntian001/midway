@@ -44,6 +44,7 @@
 | [midway-vue3-ssr][midway-vue3-ssr] | LiQingSong    | 基于 Midway、Vue 3 组装的 SSR 框架，简单、易学易用、方便扩展、集成 Midway 框架，您一直想要的 Vue SSR 框架。                                                                                                                                                                                  |
 | [midway-learn][midway-learn]       | hbsjmsjwj     | 一个学习midway的demo，包含 midway3 + egg + 官方的组件&扩展（consul, jwt, typeorm, prometheus, swagger, mysql2,grpc,rabbitmq）                                                                                                                                                                |
 | [midway-admin][midwayjs-admin]     | MrDotYan      | 一套GeekerAdmin+Midwayjs构建的后台管理框架                                                                                                                                                                                                                                                   |
+| [me-admin][me-admin]               | yuntian001    | midway+vue3 的全栈 解决方案，支持ssr 和一键生成crud|
 
 ## 学习资料
 
@@ -106,5 +107,6 @@
 [mailer-en]:https://github.com/MrDotYan/midwayjs_mailer
 [mailer-en-doc]:https://github.com/MrDotYan/midwayjs_mailer/blob/main/readme.md
 [midwayjs-admin]:https://gitee.com/yncykj/midway-admin.git
+[me-admin]:https://www.meadmin.cn/
 
 [gRPC (Unary)]: https://github.com/midwayjs/midway/tree/main/packages/grpc
